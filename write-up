@@ -1,0 +1,8 @@
+
+Our project begins with personal food expenditure in Canada from 2017. After researching on "immune boosters," we came up with the idea of analyzing food-related topics in Canada before & after the pandemic. 
+
+At first glance, the overall real retail and foodservice sales increased steadily since 2009. But it dropped suddenly after the breakout of COVID-19. We also see a sharp rise in the percentage of personal expenditure on foods during the pandemic. Those two data indicate that there might be some impact on the food industry from the consumers' perspective. Then we focus the Consumer Price Index (CPI) in Canada and analyzing how it changes throughout Canada during the pandemic. 
+
+Since CPI shows the overall pattern of consumers' behavior in a particular area, we decided to do the CPI investigation province by province to see whether there is a regional difference. However, CPIs for most of the goods do not oscillate much, even if there is a slight decline pattern. So we try examining those changes in CPI on a monthly basis. It turns out that COVID-19 did impact CPI for some foods (e.g. sugar, egg). 
+
+Interestingly, as part of foods' CPI bounced back in April, gas and energy price kept dropping after the COVID-19 outbreak. 
