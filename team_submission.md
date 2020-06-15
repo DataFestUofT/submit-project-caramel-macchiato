@@ -1,5 +1,11 @@
-This is a sample of the `team_submission.md` that should accompany your submission.
+Name:Eric Zhengyu Zhu Email: e.zhu@mail.utoronto.ca
 
-A slide deck/app (select one) was created, and is available in these files XXX (add links/file names as appropriate).
+Name: Craig Pinto  Email: craig.pinto@mail.utoronto.ca
 
-A video/write-up (select one) was created, and is available in these files XXX (add links/file names as appropriate).
+Name: Sowmya Desaraju Email: Sowmya.desaraju@mail.utoronto.ca
+
+Name: Shiyuan Cao  Email: adam.cao@mail.utoronto.ca
+
+A slide deck was created, and is available on https://public.tableau.com/profile/eric.zhu8482?fbclid=IwAR1uDJYlBWygYkLXpNU42BLjGYtHLw-J13q-LWUCb3euguyhdB75yHQnzGE#!/vizhome/CaramelMachiattoDatafestSubmission/Canadianfoodpricesduringcovid?publish=yes
+
+A write-up was created, and is available in the file /Write up.
